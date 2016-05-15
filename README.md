@@ -1,6 +1,6 @@
 # Log in module
 <html>
-<form>
+<form action="login.php" method="POST">
 Employee number:<br>
 <input type="text" placeholder="Type your no. here" size="5" name="emp_no" required><br><br>
 
